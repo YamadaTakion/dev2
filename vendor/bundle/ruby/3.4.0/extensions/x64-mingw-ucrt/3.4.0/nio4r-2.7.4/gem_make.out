@@ -1,0 +1,18 @@
+current directory: C:/dev/vendor/bundle/ruby/3.4.0/gems/nio4r-2.7.4/ext/nio4r
+C:/Ruby34-x64/bin/ruby.exe extconf.rb
+
+current directory: C:/dev/vendor/bundle/ruby/3.4.0/gems/nio4r-2.7.4/ext/nio4r
+make DESTDIR\= sitearchdir\=./.gem.20250112-12864-gqtfoj sitelibdir\=./.gem.20250112-12864-gqtfoj clean
+make: *** ターゲット 'clean' を make するルールがありません.  中止.
+
+current directory: C:/dev/vendor/bundle/ruby/3.4.0/gems/nio4r-2.7.4/ext/nio4r
+make DESTDIR\= sitearchdir\=./.gem.20250112-12864-gqtfoj sitelibdir\=./.gem.20250112-12864-gqtfoj
+make: 'all' に対して行うべき事はありません.
+
+current directory: C:/dev/vendor/bundle/ruby/3.4.0/gems/nio4r-2.7.4/ext/nio4r
+make DESTDIR\= sitearchdir\=./.gem.20250112-12864-gqtfoj sitelibdir\=./.gem.20250112-12864-gqtfoj install
+make: 'install' に対して行うべき事はありません.
+
+current directory: C:/dev/vendor/bundle/ruby/3.4.0/gems/nio4r-2.7.4/ext/nio4r
+make DESTDIR\= sitearchdir\=./.gem.20250112-12864-gqtfoj sitelibdir\=./.gem.20250112-12864-gqtfoj clean
+make: *** ターゲット 'clean' を make するルールがありません.  中止.
